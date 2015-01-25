@@ -1,3 +1,5 @@
+.idea/
+.idea/*
 *.log
 .htaccess
 sitemap.xml
